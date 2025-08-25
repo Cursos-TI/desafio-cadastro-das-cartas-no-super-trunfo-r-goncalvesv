@@ -1,7 +1,5 @@
 int main(){
-  char estado; 
-  char codigo da carta [04]; 
-  char nome da cidade [50];
+  char estado;
   int populaçao;
   float area;
   float pib;
@@ -9,12 +7,6 @@ int main(){
 
 printf ("Digite o estado:\n");
 scanf("%d", &estado);
-
-printf ("Digite o codigo da carta:\n");
-scanf("%cd", &codigo da carta);
-
-printf("Digite o nome da cidade:\n");
-scanf("%n", &nome da cidade);
 
 printf("Digite a populaçao:\n");
 scanf("%n", &populacao);
